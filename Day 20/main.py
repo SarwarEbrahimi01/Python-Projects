@@ -1,4 +1,4 @@
-# In order to develope this game we need to divide the problem into 7 seperate tasks/Steps
+# In order to develop this game we need to divide the problem into 7 separate tasks/Steps
 from turtle import Screen, Turtle
 from snake import Snake
 import time

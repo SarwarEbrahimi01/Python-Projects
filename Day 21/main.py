@@ -1,4 +1,4 @@
-# In order to develope this game we need to divide the problem into 7 seperate tasks/Steps
+# In order to develop this game we need to divide the problem into 7 seperate tasks/Steps
 from turtle import Screen
 from snake import Snake
 from food import Food
@@ -11,7 +11,7 @@ screen.bgcolor("black")
 screen.title("Snake Game")
 screen.tracer(0)
 
-# Stpe 1:
+# Step 1:
 # Create a snake body
 
 # Step 2:
